@@ -14,7 +14,7 @@ const session      = require('express-session');
 
 
 const DB_URL = process.env.DB_URL;
-const PORT = process.env.PORT || 8081;
+const PORT = process.env.PORT;
 
 const { User, Item } = require('./app/models/models');
 

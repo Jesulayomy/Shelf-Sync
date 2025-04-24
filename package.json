@@ -23,5 +23,8 @@
   "devDependencies": {},
   "author": "Jesulayomi <jesulayomi081@gmail.com> (https://www.jesulayomi.tech/)",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "engines": {
+    "node": "20.x"
+  }
 }
